@@ -1,6 +1,6 @@
 **Hi there!** 👋
 
-I'm [Rayan](https://github.com/rayanstack), a software developer based in the US.
+I'm [Rayan](https://github.com/rayanstack), a software developer based in the United States.
 
 **These days I'm focused on:**
 
