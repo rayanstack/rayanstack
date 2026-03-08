@@ -1,32 +1,24 @@
-## Hi there! 👋
-I'm [Rayan](https://github.com/rayanstack), a software developer based in the United States.
+Hi there! 👋
 
-I build whatever comes to my imagination.
+I'm [Rayan](https://github.com/rayanstack), a software developer based in the US.
 
-If I have an idea, chances are I'll try to build it.
+**These days I'm focused on:**
 
-My main tech stack is JavaScript and Node.js
+- JavaScript / Node.js
+- Backend development
+- Building bots and automation tools
 
-I've got a few pinned projects, including my Twitch chat dice bot.
+---
 
-If you want to learn how I built it, check out my repositories.
+**Some stuff I built:**
 
-Fun Facts:
+- Twitch Dice Bot – A Node.js Twitch chat gambling bot
+- More projects coming soon
 
-- I enjoy building new projects and learning how systems work  
-- I'm interested in software engineering and automation  
-- **Hobbies**: coding, tech, gym, and gaming
-<!--
-**rayanstack/rayanstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**Fun Facts:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I enjoy building new software projects
+- Interested in automation and backend systems
+- Hobbies: coding, gym, gaming
