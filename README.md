@@ -1,4 +1,4 @@
-Hi there! 👋
+**Hi there!** 👋
 
 I'm [Rayan](https://github.com/rayanstack), a software developer based in the US.
 
@@ -20,5 +20,5 @@ I'm [Rayan](https://github.com/rayanstack), a software developer based in the US
 **Fun Facts:**
 
 - I enjoy building new software projects
-- Interested in automation and backend systems
-- Hobbies: coding, gym, gaming
+- Attack on Titan is my favorite anime
+- **Hobbies:** anime, gym, gaming
