@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Rayan, a software developer based in the United States 🇺🇸
+I'm Rayan, a software developer based in the United States.
 
 I build whatever comes to my imagination.
 
